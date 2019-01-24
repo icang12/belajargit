@@ -13,3 +13,7 @@ git remote add= menambahkan url dan mengalias
 git add = menambahkan perubahan ke dalam git (staging area)
 { git add (nama file atau folder) }
 
+git comite = memberikan pesan untuk pengguna
+{
+
+}
