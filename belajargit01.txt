@@ -1,0 +1,15 @@
+belajar git
+git init = untuk menginisialisasi (daftar) file ke dalam git
+
+git config = untuk membuat konfigurasi
+{ git config --global user.email "(email pengguna)"}
+{ git config --global user.name "(nama pengguna)"}
+
+git remote add= menambahkan url dan mengalias 
+{
+ git remote add (alias) (url)
+}
+
+git add = menambahkan perubahan ke dalam git (staging area)
+{ git add (nama file atau folder) }
+
